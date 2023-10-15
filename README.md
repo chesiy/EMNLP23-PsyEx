@@ -1,7 +1,7 @@
 # EMNLP23-PsyEx
 Code and data of the EMNLP2023 paper "Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts"
 
-First, ```select_posts.py``` select risky posts for further MDD with symptom-based methods.
+First, ```select_posts.py``` select risky posts for further MDD with symptom-based methods. The selected posts are in ```processed/symptom_sum_top16```, which can be provided upon request, please contact chensiyuan925@sjtu.edu.cn or blmoistawinde@qq.com.
  
 Next, ```bash runme_psyex.sh``` to run the experiments of PsyEx in both binary and multi-label setting.
 
