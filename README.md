@@ -12,3 +12,5 @@ Other files:
 - runme_psyex_wo_multitask.sh: run the experiment of PsyEx without multi-task learning
 - runme_psyex_wo_symp.sh: run the experiment of PsyEx without symptom stream
 - runme_psyex_wo_multiattn: run the experiment of PsyEx without multiple attention layers for each disease.
+
+Please don't hesitate to reach out if you encounter any issues with the code or dataset.
